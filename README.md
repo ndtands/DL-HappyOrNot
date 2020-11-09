@@ -40,6 +40,7 @@ Warning : **The path to the data set must be correct**
 <p align="center" width="100%">
     <img width="33%" src="result/Data_train.PNG"> 
 </p>
+
 ## 3. Code create Model and test Model
 ```python:
 #Step1: Import Library Necessary
