@@ -130,11 +130,30 @@ return model
     plot_model(happyModel, to_file='HappyModel.png')
     SVG(model_to_dot(happyModel).create(prog='dot', format='svg'))
 ```
+**How to buld Model**
+<p align="center" width="100%">
+    <img width="33%" src="result/HappyModel.png"> 
+</p>
 
 ## 4. Result
 ### 4.1 Image input
 <p align="center" width="100%">
     <img width="33%" src="smile.jpg"> 
 </p>
-### 4.2 Output
 
+### 4.2 Output
+<p align="center" width="100%">
+    <img width="33%" src="smile.jpg"> 
+</p>
+
+<h1> In Detail HappyModel </h1>
+
+<p align="center" width="100%">
+    <img width="33%" src="result/modelHappy.PNG"> 
+</p>
+
+<h1> DONE with Result </h1>
+
+<p align="center" width="100%">
+    <img width="33%" src="result/result.PNG"> 
+</p>
