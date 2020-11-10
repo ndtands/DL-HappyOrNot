@@ -151,3 +151,5 @@ return model
 <p align="center" width="100%">
     <img width="33%" src="result/result.PNG"> 
 </p>
+
+<h4>Because the data is small (only 600 images),The accuracy is low (only 94%)</h4>
