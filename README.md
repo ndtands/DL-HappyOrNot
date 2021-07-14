@@ -153,4 +153,4 @@ return model
 </p>
 
 <h4>Because the data is small (only 600 images),The accuracy is low (only 94%)</h4>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\small&space;{\color{White} x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}}" />
